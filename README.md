@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/devanshgoyal25/SimpleTweet/blob/master/ezgif-7-addb8fd0fcae-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Open-source libraries used
