@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/devanshgoyal25/SimpleTweet/blob/master/VC3DRg8s.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/devanshgoyal25/SimpleTweet/blob/master/ezgif-2-ea3bac708fb1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
